@@ -1,1 +1,1 @@
-# Epic-archery
+# Project Template 26
